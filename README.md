@@ -1,5 +1,5 @@
 # Anytime-RRTstart
-The algorithm uses RRT to quickly find a feasible path from the starting point to the goal point, and then switches to RRT* to improve the path such as reducing the total traversed distance, smoothening out the path and removing unnecessary movements. 
+The algorithm uses RRT to quickly find a feasible path from the starting point to the goal point, and then switches to RRT* to improve the path's quality such as reducing the total traversed distance, smoothening out the path and removing unnecessary movements. 
 # Demos
 
 ## Scenario 1
